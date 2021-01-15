@@ -1,0 +1,10 @@
+main{font-family: 'Oswald', sans-serif;}
+.name{font-size: 50px;}
+.shoe{font-size: 30px;color: rgb(5, 46, 100);}
+.name{color: rgb(5, 46, 100);;}
+.name-highlighter{color: coral;}
+
+.nike-card{border:0;}
+.nike-card-footer{background-color: white;
+                  border: 0;}
+.nike-slide .carousel-item{background-color: rgb(245, 210, 165);}
